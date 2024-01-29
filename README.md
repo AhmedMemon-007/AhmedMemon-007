@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmed Memon</h1>
-<h3 align="center">A passionate AI and Cloud enthisuast</h3>
+<h3 align="center">A passionate programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedmemon-007&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedmemon-007" /> </p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python,and cloud infrastructures**
 
-- 💬 Ask me about **AWS, Azure**
+- 💬 Ask me about ****
 
 - 📫 How to reach me **mohammad.memon.am@gmail.com**
 
